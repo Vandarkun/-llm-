@@ -1,0 +1,6 @@
+{
+    "deepseek": {
+        "api_key": "",
+        "api_url": "https://api.deepseek.com"
+    }
+}
